@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="/xml/XSLT/panelfile-4-19-2.xsl"?>
+<layout-config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://jmri.org/xml/schema/layout-4-19-2.xsd">
+    <jmriversion>
+        <major>4</major>
+        <minor>20</minor>
+        <test>0</test>
+        <modifier></modifier>
+    </jmriversion>
+    <LayoutEditor class="jmri.jmrit.display.layoutEditor.configurexml.LayoutEditorXml" name="Annotated.any" x="0" y="0" height="3291" width="2304" windowheight="1400" windowwidth="2560" panelheight="3291" panelwidth="2304" editable="no" positionable="yes" controlling="yes" animating="yes" showhelpbar="yes" xscale="1.0" yscale="1.0" mainlinetrackwidth="4" sidetrackwidth="2" defaulttrackcolor="black" defaultoccupiedtrackcolor="red" defaultalternativetrackcolor="orange" defaulttextcolor="black">
+        <tracksegment ident="TS969" connect1name="A93" type1="POS_POINT" connect2name="A36" type2="POS_POINT" blockname="B_1_Central Station 2_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1057" connect1name="EB206" type1="POS_POINT" connect2name="EB207" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS991" connect1name="EB208" type1="POS_POINT" connect2name="EB209" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F984-S-0" connect1name="A32" type1="POS_POINT" connect2name="A58" type2="POS_POINT" blockname="B_2_Engine Shed 2_Yard" dashed="no" mainline="yes" hidden="no" bezier="yes" hideConLines="yes" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml">
+            <controlpoints>
+                <controlpoint index="0" x="354.4" y="2546.7"></controlpoint>
+                <controlpoint index="1" x="364.66" y="2584.7"></controlpoint>
+            </controlpoints>
+        </tracksegment>
+        <tracksegment ident="F923-S-0" connect1name="A199" type1="POS_POINT" connect2name="A36" type2="POS_POINT" blockname="B_1_Central Station 2_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1018" connect1name="EB210" type1="POS_POINT" connect2name="A32" type2="POS_POINT" blockname="B_2_Engine Shed 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS968" connect1name="A41" type1="POS_POINT" connect2name="A201" type2="POS_POINT" blockname="B_3_Central Station 1_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1019" connect1name="EB211" type1="POS_POINT" connect2name="A200" type2="POS_POINT" blockname="B_4_Engine Shed 1_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F1050-S-0" connect1name="A54" type1="POS_POINT" connect2name="EB212" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" bezier="yes" hideConLines="yes" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml">
+            <controlpoints>
+                <controlpoint index="0" x="364.75" y="2415.03"></controlpoint>
+                <controlpoint index="1" x="387.02" y="2511"></controlpoint>
+            </controlpoints>
+        </tracksegment>
+        <tracksegment ident="TS994" connect1name="EB213" type1="POS_POINT" connect2name="EB214" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS990" connect1name="EB215" type1="POS_POINT" connect2name="EB216" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC1012" connect1name="EB217" type1="POS_POINT" connect2name="A200" type2="POS_POINT" blockname="B_4_Engine Shed 1_Yard" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS972" connect1name="EB218" type1="POS_POINT" connect2name="EB219" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS970" connect1name="A21" type1="POS_POINT" connect2name="A93" type2="POS_POINT" blockname="B_1_Central Station 2_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC345" connect1name="A6" type1="POS_POINT" connect2name="A41" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1056" connect1name="EB220" type1="POS_POINT" connect2name="EB221" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS997" connect1name="EB222" type1="POS_POINT" connect2name="EB223" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR445" turnoutname="P2" type="RH_TURNOUT" connectaname="T-I-TOR445" connectbname="T-EL-TOR445" connectcname="T-ER-TOR445" xcen="300.43" ycen="2259.73" xb="287.2" yb="2227.8" xc="299.93" yc="2222.53" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR445" connect1name="TOR445" type1="TURNOUT_A" connect2name="A54" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR445" connect1name="TOR445" type1="TURNOUT_B" connect2name="A6" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR445" connect1name="TOR445" type1="TURNOUT_C" connect2name="A21" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1061" connect1name="A58" type1="POS_POINT" connect2name="EB224" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC33" connect1name="A158" type1="POS_POINT" connect2name="A136" type2="POS_POINT" blockname="B_5_East Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="CTS747-1" connect1name="CTS747-IE2" type1="POS_POINT" connect2name="A109" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="CTS747-IE2" type="ANCHOR" x="803.42" y="684.52" connect1name="CTS747-1" connect2name="CTS747-IS" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="CTS747-IS" connect1name="CTS747-IE1" type1="POS_POINT" connect2name="CTS747-IE2" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="CTS747-3" connect1name="CTS747-IE1" type1="POS_POINT" connect2name="A170" type2="POS_POINT" blockname="B_7_East Sidings 1_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="CTS747-IE1" type="ANCHOR" x="800.38" y="685.78" connect1name="CTS747-3" connect2name="CTS747-IS" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="TC407" connect1name="A55" type1="POS_POINT" connect2name="A19" type2="POS_POINT" blockname="B_8_South Loop_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR588" turnoutname="P11" type="RH_TURNOUT" connectaname="T-I-TOR588" connectbname="T-EL-TOR588" connectcname="T-ER-TOR588" xcen="250.16" ycen="397.65" xb="257.02" yb="349.39" xc="273.67" yc="345.8" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR588" connect1name="TOR588" type1="TURNOUT_A" connect2name="A148" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR588" connect1name="TOR588" type1="TURNOUT_B" connect2name="A176" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR588" connect1name="TOR588" type1="TURNOUT_C" connect2name="A137" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F901-S-0" connect1name="A190" type1="POS_POINT" connect2name="A139" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS373" connect1name="A75" type1="POS_POINT" connect2name="A194" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS967" connect1name="A201" type1="POS_POINT" connect2name="A12" type2="POS_POINT" blockname="B_3_Central Station 1_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC26" connect1name="A185" type1="POS_POINT" connect2name="A146" type2="POS_POINT" blockname="B_10_South Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR615" turnoutname="P3" blockname="B_11_Yard Ladder_Access" type="RH_TURNOUT" connectaname="T-I-TOR615" connectbname="T-EL-TOR615" connectcname="T-ER-TOR615" xcen="573.74" ycen="1518.75" xb="586.96" yb="1550.67" xc="574.23" yc="1555.95" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR615" connect1name="TOR615" type1="TURNOUT_A" connect2name="A98" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR615" connect1name="TOR615" type1="TURNOUT_B" connect2name="A79" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR615" connect1name="TOR615" type1="TURNOUT_C" connect2name="A138" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS336" connect1name="A154" type1="POS_POINT" connect2name="A192" type2="POS_POINT" blockname="B_12_South Inline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS355" connect1name="A155" type1="POS_POINT" connect2name="A113" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F178-S-0" connect1name="A160" type1="POS_POINT" connect2name="A61" type2="POS_POINT" blockname="B_14_South Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR197" turnoutname="P6" blockname="B_11_Yard Ladder_Access" type="RH_TURNOUT" connectaname="T-I-TOR197" connectbname="T-EL-TOR197" connectcname="T-ER-TOR197" xcen="391.1" ycen="1077.82" xb="404.32" yb="1109.75" xc="391.59" yc="1115.02" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR197" connect1name="TOR197" type1="TURNOUT_A" connect2name="A107" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR197" connect1name="TOR197" type1="TURNOUT_B" connect2name="A196" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR197" connect1name="TOR197" type1="TURNOUT_C" connect2name="A71" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1040" connect1name="A29" type1="POS_POINT" connect2name="A48" type2="POS_POINT" blockname="B_15_Main Yard 1_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS852" connect1name="A18" type1="POS_POINT" connect2name="A8" type2="POS_POINT" blockname="B_16_North Loop 1_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC737" connect1name="A198" type1="POS_POINT" connect2name="A187" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC461" connect1name="A204" type1="POS_POINT" connect2name="A72" type2="POS_POINT" blockname="B_18_Yard West Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS531" connect1name="A1" type1="POS_POINT" connect2name="A52" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS418" connect1name="A112" type1="POS_POINT" connect2name="A4" type2="POS_POINT" blockname="B_19_North Station_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="B414-EB" type="END_BUMPER" x="455.44" y="68" connect1name="B414" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="B414" connect1name="A91" type1="POS_POINT" connect2name="B414-EB" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1009" connect1name="A138" type1="POS_POINT" connect2name="A37" type2="POS_POINT" blockname="B_20_Main Yard 3_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC25" connect1name="A153" type1="POS_POINT" connect2name="A185" type2="POS_POINT" blockname="B_10_South Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC161" connect1name="A89" type1="POS_POINT" connect2name="A95" type2="POS_POINT" blockname="B_8_South Loop_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS469" connect1name="A180" type1="POS_POINT" connect2name="A195" type2="POS_POINT" blockname="B_21_Yard West Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F1042-S-0" connect1name="A13" type1="POS_POINT" connect2name="A59" type2="POS_POINT" blockname="B_22_Central Station 3_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS395" connect1name="A130" type1="POS_POINT" connect2name="A147" type2="POS_POINT" blockname="B_14_South Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC544" connect1name="A79" type1="POS_POINT" connect2name="A165" type2="POS_POINT" blockname="B_23_Main Yard 4_Yard" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS616" connect1name="A90" type1="POS_POINT" connect2name="A77" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC332" connect1name="A126" type1="POS_POINT" connect2name="A94" type2="POS_POINT" blockname="B_14_South Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC131" connect1name="A140" type1="POS_POINT" connect2name="A158" type2="POS_POINT" blockname="B_5_East Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC596" connect1name="A176" type1="POS_POINT" connect2name="A164" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS617" connect1name="A77" type1="POS_POINT" connect2name="A98" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS389" connect1name="A144" type1="POS_POINT" connect2name="A65" type2="POS_POINT" blockname="B_18_Yard West Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS858" connect1name="A172" type1="POS_POINT" connect2name="A14" type2="POS_POINT" blockname="B_24_East Sidings 3_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS857" connect1name="A110" type1="POS_POINT" connect2name="A172" type2="POS_POINT" blockname="B_24_East Sidings 3_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC295" connect1name="A205" type1="POS_POINT" connect2name="A186" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS863" connect1name="A85" type1="POS_POINT" connect2name="A3" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F601-S-0" connect1name="A84" type1="POS_POINT" connect2name="A62" type2="POS_POINT" blockname="B_25_Hill Inner_Unspecified" dashed="no" mainline="yes" hidden="no" bezier="yes" hideConLines="yes" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml">
+            <controlpoints>
+                <controlpoint index="0" x="416.75" y="219.72"></controlpoint>
+                <controlpoint index="1" x="432.02" y="207.7"></controlpoint>
+            </controlpoints>
+        </tracksegment>
+        <tracksegment ident="TC374" connect1name="A43" type1="POS_POINT" connect2name="A4" type2="POS_POINT" blockname="B_16_North Loop 1_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC162" connect1name="A95" type1="POS_POINT" connect2name="A117" type2="POS_POINT" blockname="B_8_South Loop_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS467" connect1name="A106" type1="POS_POINT" connect2name="A69" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC97" connect1name="A120" type1="POS_POINT" connect2name="A177" type2="POS_POINT" blockname="B_26_South Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC1037" connect1name="A31" type1="POS_POINT" connect2name="A59" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F79-S-0" connect1name="A67" type1="POS_POINT" connect2name="A140" type2="POS_POINT" blockname="B_27_East Incline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F899-S-0" connect1name="A187" type1="POS_POINT" connect2name="A178" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC602" connect1name="A167" type1="POS_POINT" connect2name="A191" type2="POS_POINT" blockname="B_25_Hill Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1008" connect1name="A165" type1="POS_POINT" connect2name="A63" type2="POS_POINT" blockname="B_23_Main Yard 4_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC95" connect1name="A181" type1="POS_POINT" connect2name="A156" type2="POS_POINT" blockname="B_26_South Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL331" turnoutname="P13" type="LH_TURNOUT" connectaname="T-I-TOL331" connectbname="T-ER-TOL331" connectcname="T-EL-TOL331" xcen="787.9" ycen="2846.04" xb="817.18" yb="2807.07" xc="807.95" yc="2792.75" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL331" connect1name="TOL331" type1="TURNOUT_A" connect2name="A151" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL331" connect1name="TOL331" type1="TURNOUT_B" connect2name="A166" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL331" connect1name="TOL331" type1="TURNOUT_C" connect2name="A94" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS960" connect1name="A22" type1="POS_POINT" connect2name="A64" type2="POS_POINT" blockname="B_28_Main Yard 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="B931-EB" type="END_BUMPER" x="135.88" y="631.13" connect1name="B931" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="B931" connect1name="A5" type1="POS_POINT" connect2name="B931-EB" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS613" connect1name="A173" type1="POS_POINT" connect2name="A1" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL710" turnoutname="P19" blockname="B_6_East Sidings Access_Access" type="LH_TURNOUT" connectaname="T-I-TOL710" connectbname="T-ER-TOL710" connectcname="T-EL-TOL710" xcen="934.88" ycen="631.13" xb="900.32" yb="631.13" xc="900.32" yc="644.91" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL710" connect1name="TOL710" type1="TURNOUT_A" connect2name="A105" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL710" connect1name="TOL710" type1="TURNOUT_B" connect2name="A118" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL710" connect1name="TOL710" type1="TURNOUT_C" connect2name="A109" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F462-S-0" connect1name="A204" type1="POS_POINT" connect2name="A182" type2="POS_POINT" blockname="B_18_Yard West Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC152" connect1name="A49" type1="POS_POINT" connect2name="A123" type2="POS_POINT" blockname="B_5_East Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS714" connect1name="A16" type1="POS_POINT" connect2name="A103" type2="POS_POINT" blockname="B_29_East Sidings Headshunt_Headshunt" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC140" connect1name="A26" type1="POS_POINT" connect2name="A2" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS466" connect1name="A69" type1="POS_POINT" connect2name="A75" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F900-S-0" connect1name="A203" type1="POS_POINT" connect2name="A198" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC5" connect1name="A133" type1="POS_POINT" connect2name="A33" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS139" connect1name="A2" type1="POS_POINT" connect2name="A119" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS720" connect1name="A104" type1="POS_POINT" connect2name="A121" type2="POS_POINT" blockname="B_30_East Sidings 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC459" connect1name="A195" type1="POS_POINT" connect2name="A205" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="CTS751-1" connect1name="CTS751-IE2" type1="POS_POINT" connect2name="A35" type2="POS_POINT" blockname="B_30_East Sidings 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="CTS751-IE2" type="ANCHOR" x="662.14" y="685.78" connect1name="CTS751-1" connect2name="CTS751-IS" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="CTS751-2" connect1name="CTS751-IE1" type1="POS_POINT" connect2name="A11" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="CTS751-IE1" type="ANCHOR" x="665.18" y="684.52" connect1name="CTS751-2" connect2name="CTS751-IS" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="CTS751-IS" connect1name="CTS751-IE1" type1="POS_POINT" connect2name="CTS751-IE2" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS324" connect1name="A192" type1="POS_POINT" connect2name="A101" type2="POS_POINT" blockname="B_12_South Inline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F982-S-0" connect1name="EB225" type1="POS_POINT" connect2name="A64" type2="POS_POINT" blockname="B_28_Main Yard 2_Yard" dashed="no" mainline="yes" hidden="no" bezier="yes" hideConLines="yes" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml">
+            <controlpoints>
+                <controlpoint index="0" x="488.05" y="2530.26"></controlpoint>
+                <controlpoint index="1" x="497.89" y="2452.43"></controlpoint>
+            </controlpoints>
+        </tracksegment>
+        <tracksegment ident="TS851" connect1name="A43" type1="POS_POINT" connect2name="A18" type2="POS_POINT" blockname="B_16_North Loop 1_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL589" turnoutname="P12" type="LH_TURNOUT" connectaname="T-I-TOL589" connectbname="T-ER-TOL589" connectcname="T-EL-TOL589" xcen="555.46" ycen="147.49" xb="507.2" yb="154.35" xc="503.61" yc="171" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL589" connect1name="TOL589" type1="TURNOUT_A" connect2name="A70" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL589" connect1name="TOL589" type1="TURNOUT_B" connect2name="A188" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL589" connect1name="TOL589" type1="TURNOUT_C" connect2name="A62" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC732" connect1name="A3" type1="POS_POINT" connect2name="A30" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="CTS854-1" connect1name="CTS854-IE1" type1="POS_POINT" connect2name="A99" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="CTS854-IE1" type="ANCHOR" x="660.04" y="631.13" connect1name="CTS854-1" connect2name="CTS854-IS" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="CTS854-IS" connect1name="CTS854-IE1" type1="POS_POINT" connect2name="CTS854-IE2" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="CTS854-3" connect1name="CTS854-IE2" type1="POS_POINT" connect2name="A14" type2="POS_POINT" blockname="B_24_East Sidings 3_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="CTS854-IE2" type="ANCHOR" x="656.75" y="631.13" connect1name="CTS854-3" connect2name="CTS854-IS" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="F229-S-0" connect1name="A113" type1="POS_POINT" connect2name="A26" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS394" connect1name="A15" type1="POS_POINT" connect2name="A130" type2="POS_POINT" blockname="B_14_South Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS399" connect1name="A115" type1="POS_POINT" connect2name="A108" type2="POS_POINT" blockname="B_31_South Station_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC597" connect1name="A164" type1="POS_POINT" connect2name="A124" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1028" connect1name="A63" type1="POS_POINT" connect2name="A202" type2="POS_POINT" blockname="B_23_Main Yard 4_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL269" turnoutname="P14" blockname="B_32_South Loop Junction_Access" type="LH_TURNOUT" connectaname="T-I-TOL269" connectbname="T-ER-TOL269" connectcname="T-EL-TOL269" xcen="1323.27" ycen="840.74" xb="1276.7" yb="821.46" xc="1271.43" yc="834.19" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL269" connect1name="TOL269" type1="TURNOUT_A" connect2name="A74" type2="POS_POINT" blockname="B_32_South Loop Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL269" connect1name="TOL269" type1="TURNOUT_B" connect2name="A139" type2="POS_POINT" blockname="B_32_South Loop Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL269" connect1name="TOL269" type1="TURNOUT_C" connect2name="A117" type2="POS_POINT" blockname="B_32_South Loop Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F904-S-0" connect1name="A194" type1="POS_POINT" connect2name="A175" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS392" connect1name="A197" type1="POS_POINT" connect2name="A162" type2="POS_POINT" blockname="B_12_South Inline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F279-S-0" connect1name="A34" type1="POS_POINT" connect2name="A8" type2="POS_POINT" blockname="B_16_North Loop 1_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS855" connect1name="A5" type1="POS_POINT" connect2name="A110" type2="POS_POINT" blockname="B_24_East Sidings 3_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1052" connect1name="A37" type1="POS_POINT" connect2name="A86" type2="POS_POINT" blockname="B_20_Main Yard 3_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS611" connect1name="A39" type1="POS_POINT" connect2name="A46" type2="POS_POINT" blockname="B_33_Main Yard Headshunt_Headshunt" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC16" connect1name="A163" type1="POS_POINT" connect2name="A159" type2="POS_POINT" blockname="B_34_East Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F652-S-0" connect1name="A68" type1="POS_POINT" connect2name="A142" type2="POS_POINT" blockname="B_12_South Inline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS391" connect1name="A154" type1="POS_POINT" connect2name="A197" type2="POS_POINT" blockname="B_12_South Inline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS760" connect1name="A111" type1="POS_POINT" connect2name="A35" type2="POS_POINT" blockname="B_30_East Sidings 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F40-S-0" connect1name="A134" type1="POS_POINT" connect2name="A97" type2="POS_POINT" blockname="B_35_East Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS288" connect1name="A166" type1="POS_POINT" connect2name="A20" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F599-S-0" connect1name="A137" type1="POS_POINT" connect2name="A188" type2="POS_POINT" blockname="B_36_Hill Crossover_Access" dashed="no" mainline="yes" hidden="no" bezier="yes" hideConLines="yes" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml">
+            <controlpoints>
+                <controlpoint index="0" x="338.74" y="231.76"></controlpoint>
+                <controlpoint index="1" x="389.84" y="189.83"></controlpoint>
+            </controlpoints>
+        </tracksegment>
+        <tracksegment ident="TC460" connect1name="A183" type1="POS_POINT" connect2name="A141" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F1055-S-0" connect1name="EB226" type1="POS_POINT" connect2name="A202" type2="POS_POINT" blockname="B_23_Main Yard 4_Yard" dashed="no" mainline="yes" hidden="no" bezier="yes" hideConLines="yes" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml">
+            <controlpoints>
+                <controlpoint index="0" x="588.99" y="2564.49"></controlpoint>
+                <controlpoint index="1" x="627.62" y="2499.64"></controlpoint>
+            </controlpoints>
+        </tracksegment>
+        <tracksegment ident="TS864" connect1name="A105" type1="POS_POINT" connect2name="A78" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC343" connect1name="A142" type1="POS_POINT" connect2name="A162" type2="POS_POINT" blockname="B_12_South Inline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS860" connect1name="A52" type1="POS_POINT" connect2name="A107" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F614-S-0" connect1name="A87" type1="POS_POINT" connect2name="A199" type2="POS_POINT" blockname="B_1_Central Station 2_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC35" connect1name="A125" type1="POS_POINT" connect2name="A49" type2="POS_POINT" blockname="B_5_East Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="B750-EB" type="END_BUMPER" x="93.37" y="978.63" connect1name="B750" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="B750" connect1name="A171" type1="POS_POINT" connect2name="B750-EB" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F903-S-0" connect1name="A38" type1="POS_POINT" connect2name="A12" type2="POS_POINT" blockname="B_3_Central Station 1_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS398" connect1name="A147" type1="POS_POINT" connect2name="A51" type2="POS_POINT" blockname="B_14_South Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR709" turnoutname="P18" blockname="B_6_East Sidings Access_Access" type="RH_TURNOUT" connectaname="T-I-TOR709" connectbname="T-EL-TOR709" connectcname="T-ER-TOR709" xcen="1104.39" ycen="631.13" xb="1138.95" yb="631.13" xc="1138.95" yc="644.91" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR709" connect1name="TOR709" type1="TURNOUT_A" connect2name="A78" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR709" connect1name="TOR709" type1="TURNOUT_B" connect2name="A16" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR709" connect1name="TOR709" type1="TURNOUT_C" connect2name="A85" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC286" connect1name="A156" type1="POS_POINT" connect2name="A144" type2="POS_POINT" blockname="B_18_Yard West Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS579" connect1name="A82" type1="POS_POINT" connect2name="A193" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC294" connect1name="A141" type1="POS_POINT" connect2name="A106" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS472" connect1name="A116" type1="POS_POINT" connect2name="A182" type2="POS_POINT" blockname="B_18_Yard West Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC405" connect1name="A115" type1="POS_POINT" connect2name="A25" type2="POS_POINT" blockname="B_31_South Station_Station" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS145" connect1name="A70" type1="POS_POINT" connect2name="A96" type2="POS_POINT" blockname="B_27_East Incline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC289" connect1name="A184" type1="POS_POINT" connect2name="A174" type2="POS_POINT" blockname="B_21_Yard West Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR344" turnoutname="P4" blockname="B_11_Yard Ladder_Access" type="RH_TURNOUT" connectaname="T-I-TOR344" connectbname="T-EL-TOR344" connectcname="T-ER-TOR344" xcen="496.9" ycen="1333.25" xb="510.13" yb="1365.18" xc="497.39" yc="1370.45" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR344" connect1name="TOR344" type1="TURNOUT_A" connect2name="A145" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR344" connect1name="TOR344" type1="TURNOUT_B" connect2name="A90" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR344" connect1name="TOR344" type1="TURNOUT_C" connect2name="A80" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F600-S-0" connect1name="A23" type1="POS_POINT" connect2name="A92" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS388" connect1name="A72" type1="POS_POINT" connect2name="A65" type2="POS_POINT" blockname="B_18_Yard West Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS850" connect1name="A102" type1="POS_POINT" connect2name="A28" type2="POS_POINT" blockname="B_31_South Station_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="B746-EB" type="END_BUMPER" x="1733.05" y="631.13" connect1name="B746" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="B746" connect1name="A103" type1="POS_POINT" connect2name="B746-EB" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC14" connect1name="A149" type1="POS_POINT" connect2name="A169" type2="POS_POINT" blockname="B_34_East Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC99" connect1name="A135" type1="POS_POINT" connect2name="A181" type2="POS_POINT" blockname="B_26_South Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F1048-S-0" connect1name="A24" type1="POS_POINT" connect2name="EB227" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC598" connect1name="A124" type1="POS_POINT" connect2name="A23" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL1036" turnoutname="P1" type="LH_TURNOUT" connectaname="T-I-TOL1036" connectbname="T-ER-TOL1036" connectcname="T-EL-TOL1036" xcen="444.98" ycen="2451.69" xb="444.98" yb="2417.13" xc="431.2" yc="2417.13" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL1036" connect1name="TOL1036" type1="TURNOUT_A" connect2name="A24" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL1036" connect1name="TOL1036" type1="TURNOUT_B" connect2name="A48" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL1036" connect1name="TOL1036" type1="TURNOUT_C" connect2name="A31" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS849" connect1name="A126" type1="POS_POINT" connect2name="A15" type2="POS_POINT" blockname="B_14_South Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC167" connect1name="A112" type1="POS_POINT" connect2name="A10" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR342" turnoutname="P7" blockname="B_11_Yard Ladder_Access" type="RH_TURNOUT" connectaname="T-I-TOR342" connectbname="T-EL-TOR342" connectcname="T-ER-TOR342" xcen="302.3" ycen="863.43" xb="315.52" yb="895.36" xc="302.79" yc="900.64" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR342" connect1name="TOR342" type1="TURNOUT_A" connect2name="A193" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR342" connect1name="TOR342" type1="TURNOUT_B" connect2name="A173" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR342" connect1name="TOR342" type1="TURNOUT_C" connect2name="A157" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS138" connect1name="A47" type1="POS_POINT" connect2name="A57" type2="POS_POINT" blockname="B_34_East Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC88" connect1name="A191" type1="POS_POINT" connect2name="A84" type2="POS_POINT" blockname="B_25_Hill Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS181" connect1name="A96" type1="POS_POINT" connect2name="A67" type2="POS_POINT" blockname="B_27_East Incline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS848" connect1name="A120" type1="POS_POINT" connect2name="A101" type2="POS_POINT" blockname="B_12_South Inline Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1024" connect1name="A71" type1="POS_POINT" connect2name="A13" type2="POS_POINT" blockname="B_22_Central Station 3_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC163" connect1name="A122" type1="POS_POINT" connect2name="A89" type2="POS_POINT" blockname="B_8_South Loop_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC314" connect1name="A61" type1="POS_POINT" connect2name="A51" type2="POS_POINT" blockname="B_14_South Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR45" turnoutname="P16" blockname="B_37_North Loop Junction_Access" type="RH_TURNOUT" connectaname="T-I-TOR45" connectbname="T-EL-TOR45" connectcname="T-ER-TOR45" xcen="19.97" ycen="2529.36" xb="19.97" yb="2478.96" xc="33.76" yc="2478.96" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR45" connect1name="TOR45" type1="TURNOUT_A" connect2name="A146" type2="POS_POINT" blockname="B_37_North Loop Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR45" connect1name="TOR45" type1="TURNOUT_B" connect2name="A129" type2="POS_POINT" blockname="B_37_North Loop Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR45" connect1name="TOR45" type1="TURNOUT_C" connect2name="A50" type2="POS_POINT" blockname="B_37_North Loop Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS468" connect1name="A189" type1="POS_POINT" connect2name="A180" type2="POS_POINT" blockname="B_21_Yard West Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS382" connect1name="A34" type1="POS_POINT" connect2name="A129" type2="POS_POINT" blockname="B_16_North Loop 1_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS464" connect1name="A81" type1="POS_POINT" connect2name="A161" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR199" turnoutname="P5" blockname="B_11_Yard Ladder_Access" type="RH_TURNOUT" connectaname="T-I-TOR199" connectbname="T-EL-TOR199" connectcname="T-ER-TOR199" xcen="444" ycen="1205.53" xb="457.23" yb="1237.46" xc="444.49" yc="1242.74" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR199" connect1name="TOR199" type1="TURNOUT_A" connect2name="A196" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR199" connect1name="TOR199" type1="TURNOUT_B" connect2name="A145" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR199" connect1name="TOR199" type1="TURNOUT_C" connect2name="A27" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC7" connect1name="A10" type1="POS_POINT" connect2name="A133" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="B724-EB" type="END_BUMPER" x="53.2" y="938.01" connect1name="B724" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <tracksegment ident="B724" connect1name="A104" type1="POS_POINT" connect2name="B724-EB" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS749" connect1name="A171" type1="POS_POINT" connect2name="A150" type2="POS_POINT" blockname="B_7_East Sidings 1_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS299" connect1name="A161" type1="POS_POINT" connect2name="A203" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR735" turnoutname="P17" blockname="B_38_East Sidings Junction_Access" type="RH_TURNOUT" connectaname="T-I-TOR735" connectbname="T-EL-TOR735" connectcname="T-ER-TOR735" xcen="1372.63" ycen="800.71" xb="1340.7" yb="787.48" xc="1345.97" yc="774.75" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR735" connect1name="TOR735" type1="TURNOUT_A" connect2name="A123" type2="POS_POINT" blockname="B_38_East Sidings Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR735" connect1name="TOR735" type1="TURNOUT_B" connect2name="A178" type2="POS_POINT" blockname="B_38_East Sidings Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR735" connect1name="TOR735" type1="TURNOUT_C" connect2name="A30" type2="POS_POINT" blockname="B_38_East Sidings Junction_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL853" turnoutname="P20" blockname="B_6_East Sidings Access_Access" type="LH_TURNOUT" connectaname="T-I-TOL853" connectbname="T-ER-TOL853" connectcname="T-EL-TOL853" xcen="796.64" ycen="631.13" xb="762.08" yb="631.13" xc="762.08" yc="644.91" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL853" connect1name="TOL853" type1="TURNOUT_A" connect2name="A118" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL853" connect1name="TOL853" type1="TURNOUT_B" connect2name="A99" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL853" connect1name="TOL853" type1="TURNOUT_C" connect2name="A11" type2="POS_POINT" blockname="B_6_East Sidings Access_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS492" connect1name="A102" type1="POS_POINT" connect2name="A108" type2="POS_POINT" blockname="B_31_South Station_Station" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS761" connect1name="A9" type1="POS_POINT" connect2name="A170" type2="POS_POINT" blockname="B_7_East Sidings 1_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS764" connect1name="A121" type1="POS_POINT" connect2name="A100" type2="POS_POINT" blockname="B_30_East Sidings 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC408" connect1name="A122" type1="POS_POINT" connect2name="A55" type2="POS_POINT" blockname="B_8_South Loop_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL50" turnoutname="P15" type="LH_TURNOUT" connectaname="T-I-TOL50" connectbname="T-ER-TOL50" connectcname="T-EL-TOL50" xcen="1700.75" ycen="97.16" xb="1656.81" yb="76.05" xc="1644.58" yc="87.9" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL50" connect1name="TOL50" type1="TURNOUT_A" connect2name="A57" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL50" connect1name="TOL50" type1="TURNOUT_B" connect2name="A119" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL50" connect1name="TOL50" type1="TURNOUT_C" connect2name="A97" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR518" turnoutname="P8" type="RH_TURNOUT" connectaname="T-I-TOR518" connectbname="T-EL-TOR518" connectcname="T-ER-TOR518" xcen="303.28" ycen="1006.96" xb="303.28" yb="1041.52" xc="289.5" yc="1041.52" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR518" connect1name="TOR518" type1="TURNOUT_A" connect2name="A157" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR518" connect1name="TOR518" type1="TURNOUT_B" connect2name="A87" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR518" connect1name="TOR518" type1="TURNOUT_C" connect2name="A127" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS762" connect1name="A150" type1="POS_POINT" connect2name="A9" type2="POS_POINT" blockname="B_7_East Sidings 1_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC134" connect1name="A47" type1="POS_POINT" connect2name="A149" type2="POS_POINT" blockname="B_34_East Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOL182" turnoutname="P10" type="LH_TURNOUT" connectaname="T-I-TOL182" connectbname="T-ER-TOL182" connectcname="T-EL-TOL182" xcen="236.45" ycen="563.3" xb="236.45" yb="597.86" xc="250.23" yc="597.86" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOL182" connect1name="TOL182" type1="TURNOUT_A" connect2name="A148" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOL182" connect1name="TOL182" type1="TURNOUT_B" connect2name="A56" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOL182" connect1name="TOL182" type1="TURNOUT_C" connect2name="A53" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC15" connect1name="A169" type1="POS_POINT" connect2name="A163" type2="POS_POINT" blockname="B_34_East Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC34" connect1name="A136" type1="POS_POINT" connect2name="A125" type2="POS_POINT" blockname="B_5_East Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC98" connect1name="A177" type1="POS_POINT" connect2name="A135" type2="POS_POINT" blockname="B_26_South Curve Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC610" connect1name="A46" type1="POS_POINT" connect2name="A91" type2="POS_POINT" blockname="B_33_Main Yard Headshunt_Headshunt" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS542" connect1name="A80" type1="POS_POINT" connect2name="A7" type2="POS_POINT" blockname="B_28_Main Yard 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC334" connect1name="A25" type1="POS_POINT" connect2name="A20" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC406" connect1name="A19" type1="POS_POINT" connect2name="A28" type2="POS_POINT" blockname="B_8_South Loop_Branch Line" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="11.25" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS29" connect1name="A174" type1="POS_POINT" connect2name="A50" type2="POS_POINT" blockname="B_21_Yard West Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC590" connect1name="A128" type1="POS_POINT" connect2name="A39" type2="POS_POINT" blockname="B_33_Main Yard Headshunt_Headshunt" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS465" connect1name="A186" type1="POS_POINT" connect2name="A81" type2="POS_POINT" blockname="B_17_Tunnel Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS1023" connect1name="A27" type1="POS_POINT" connect2name="A29" type2="POS_POINT" blockname="B_15_Main Yard 1_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F979-S-0" connect1name="A86" type1="POS_POINT" connect2name="EB228" type2="POS_POINT" blockname="B_20_Main Yard 3_Yard" dashed="no" mainline="yes" hidden="no" bezier="yes" hideConLines="yes" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml">
+            <controlpoints>
+                <controlpoint index="0" x="574.72" y="2492.95"></controlpoint>
+                <controlpoint index="1" x="535.92" y="2552.25"></controlpoint>
+            </controlpoints>
+        </tracksegment>
+        <tracksegment ident="TS868" connect1name="A183" type1="POS_POINT" connect2name="A116" type2="POS_POINT" blockname="B_18_Yard West Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC366" connect1name="A38" type1="POS_POINT" connect2name="A127" type2="POS_POINT" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS180" connect1name="A92" type1="POS_POINT" connect2name="A134" type2="POS_POINT" blockname="B_35_East Incline Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS397" connect1name="A167" type1="POS_POINT" connect2name="A160" type2="POS_POINT" blockname="B_25_Hill Inner_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS950" connect1name="A7" type1="POS_POINT" connect2name="A22" type2="POS_POINT" blockname="B_28_Main Yard 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC151" connect1name="A159" type1="POS_POINT" connect2name="A74" type2="POS_POINT" blockname="B_34_East Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="22.5" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <layoutturnout ident="TOR360" turnoutname="P9" blockname="B_11_Yard Ladder_Access" type="RH_TURNOUT" connectaname="T-I-TOR360" connectbname="T-EL-TOR360" connectcname="T-ER-TOR360" xcen="237.43" ycen="706.83" xb="224.2" yb="674.9" xc="236.94" yc="669.63" continuing="2" disabled="no" disableWhenOccupied="no" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml"></layoutturnout>
+        <tracksegment ident="T-I-TOR360" connect1name="TOR360" type1="TURNOUT_A" connect2name="A82" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-EL-TOR360" connect1name="TOR360" type1="TURNOUT_B" connect2name="A128" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="T-ER-TOR360" connect1name="TOR360" type1="TURNOUT_C" connect2name="A56" type2="POS_POINT" blockname="B_11_Yard Ladder_Access" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS582" connect1name="A68" type1="POS_POINT" connect2name="A53" type2="POS_POINT" blockname="B_39_Hill Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC164" connect1name="A175" type1="POS_POINT" connect2name="A190" type2="POS_POINT" blockname="B_9_Tunnel Inner_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TC24" connect1name="A151" type1="POS_POINT" connect2name="A153" type2="POS_POINT" blockname="B_10_South Curve Outer_Unspecified" dashed="no" mainline="yes" hidden="no" arc="yes" flip="no" circle="yes" angle="45" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS763" connect1name="A100" type1="POS_POINT" connect2name="A111" type2="POS_POINT" blockname="B_30_East Sidings 2_Yard" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="TS356" connect1name="A33" type1="POS_POINT" connect2name="A155" type2="POS_POINT" blockname="B_13_North Loop 2_Branch Line" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <tracksegment ident="F292-S-0" connect1name="A184" type1="POS_POINT" connect2name="A189" type2="POS_POINT" blockname="B_21_Yard West Outer_Unspecified" dashed="no" mainline="yes" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml"></tracksegment>
+        <positionablepoint ident="A105" type="ANCHOR" x="1004" y="631.13" connect1name="T-I-TOL710" connect2name="TS864" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A107" type="ANCHOR" x="364.65" y="1013.96" connect1name="T-I-TOR197" connect2name="TS860" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A111" type="ANCHOR" x="570.91" y="723.56" connect1name="TS763" connect2name="TS760" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A114" type="ANCHOR" x="342.9" y="1627.34" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A104" type="ANCHOR" x="60.8" y="934.86" connect1name="B724" connect2name="TS720" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A115" type="ANCHOR" x="911.79" y="2470.91" connect1name="TS399" connect2name="TC405" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A116" type="ANCHOR" x="122.92" y="1378.11" connect1name="TS868" connect2name="TS472" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A119" type="ANCHOR" x="1612.87" y="54.93" connect1name="TS139" connect2name="T-ER-TOL50" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A121" type="ANCHOR" x="188.52" y="881.96" connect1name="TS720" connect2name="TS764" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A125" type="ANCHOR" x="1829.26" y="749.03" connect1name="TC35" connect2name="TC34" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A127" type="ANCHOR" x="275.72" y="1076.08" connect1name="T-ER-TOR518" connect2name="TC366" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A120" type="ANCHOR" x="796.39" y="2644.61" connect1name="TS848" connect2name="TC97" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A128" type="ANCHOR" x="210.98" y="642.97" connect1name="TC590" connect2name="T-EL-TOR360" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A117" type="ANCHOR" x="1219.59" y="827.64" connect1name="TC162" connect2name="T-EL-TOL269" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A118" type="ANCHOR" x="865.76" y="631.13" connect1name="T-I-TOL853" connect2name="T-ER-TOL710" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A122" type="ANCHOR" x="793.33" y="1466.81" connect1name="TC163" connect2name="TC408" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A110" type="ANCHOR" x="419.77" y="631.13" connect1name="TS857" connect2name="TS855" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A123" type="ANCHOR" x="1436.49" y="827.16" connect1name="T-I-TOR735" connect2name="TC152" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A124" type="ANCHOR" x="458.93" y="106.07" connect1name="TC598" connect2name="TC597" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A126" type="ANCHOR" x="841.46" y="2602.69" connect1name="TS849" connect2name="TC332" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A113" type="ANCHOR" x="608.81" y="21.04" connect1name="TS355" connect2name="F229-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A106" type="ANCHOR" x="345.41" y="1013.87" connect1name="TC294" connect2name="TS467" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A108" type="ANCHOR" x="911.79" y="1919.6" connect1name="TS492" connect2name="TS399" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A109" type="ANCHOR" x="865.76" y="658.7" connect1name="CTS747-1" connect2name="T-EL-TOL710" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A112" type="ANCHOR" x="141.85" y="345.17" connect1name="TS418" connect2name="TC167" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A43" type="ANCHOR" x="20.82" y="1022.67" connect1name="TS851" connect2name="TC374" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A44" type="ANCHOR" x="200.73" y="1627.46" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A45" type="ANCHOR" x="342.9" y="1898.89" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A46" type="ANCHOR" x="222.94" y="296.04" connect1name="TC610" connect2name="TS611" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A40" type="ANCHOR" x="342.9" y="1763.12" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A41" type="ANCHOR" x="246.54" y="2057.95" connect1name="TC345" connect2name="TS968" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A42" type="ANCHOR" x="946.97" y="2394.57" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A50" type="ANCHOR" x="47.54" y="2428.56" connect1name="TS29" connect2name="T-ER-TOR45" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A51" type="ANCHOR" x="841.46" y="1988.84" connect1name="TC314" connect2name="TS398" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A17" type="ANCHOR" x="18.98" y="730.7" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A18" type="ANCHOR" x="20.82" y="1053.93" connect1name="TS852" connect2name="TS851" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A19" type="ANCHOR" x="898.32" y="1720.29" connect1name="TC406" connect2name="TC407" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A2" type="ANCHOR" x="1477.29" y="27.97" connect1name="TC140" connect2name="TS139" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A20" type="ANCHOR" x="858.43" y="2739.2" connect1name="TC334" connect2name="TS288" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A13" type="ANCHOR" x="392.08" y="1703.54" connect1name="F1042-S-0" connect2name="TS1024" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A11" type="ANCHOR" x="727.52" y="658.7" connect1name="CTS751-2" connect2name="T-EL-TOL853" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A12" type="ANCHOR" x="246.54" y="1996.72" connect1name="TS967" connect2name="F903-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A21" type="ANCHOR" x="299.44" y="2185.32" connect1name="T-ER-TOR445" connect2name="TS970" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A22" type="ANCHOR" x="497.89" y="2234.63" connect1name="TS960" connect2name="TS950" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A3" type="ANCHOR" x="1202.39" y="670.66" connect1name="TS863" connect2name="TC732" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A5" type="ANCHOR" x="144.11" y="631.13" connect1name="B931" connect2name="TS855" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A6" type="ANCHOR" x="273.97" y="2195.87" connect1name="TC345" connect2name="T-EL-TOR445" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A8" type="ANCHOR" x="20.82" y="1085.2" connect1name="F279-S-0" connect2name="TS852" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A9" type="ANCHOR" x="483.37" y="817.09" connect1name="TS762" connect2name="TS761" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A10" type="ANCHOR" x="162.36" y="277.56" connect1name="TC167" connect2name="TC7" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A14" type="ANCHOR" x="589.28" y="631.13" connect1name="TS858" connect2name="CTS854-3" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A4" type="ANCHOR" x="34.29" y="885.89" connect1name="TC374" connect2name="TS418" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A15" type="ANCHOR" x="841.46" y="2571.42" connect1name="TS849" connect2name="TS394" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A1" type="ANCHOR" x="340.71" y="956.18" connect1name="TS531" connect2name="TS613" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A7" type="ANCHOR" x="497.89" y="1958.97" connect1name="TS950" connect2name="TS542" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A16" type="ANCHOR" x="1173.51" y="631.13" connect1name="TS714" connect2name="T-EL-TOR709" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A183" type="ANCHOR" x="122.92" y="1346.84" connect1name="TC460" connect2name="TS868" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A205" type="ANCHOR" x="100.92" y="1196.19" connect1name="TC295" connect2name="TC459" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB208" type="END_BUMPER" x="373.82" y="2870.18" connect1name="TS991" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A193" type="ANCHOR" x="275.85" y="799.58" connect1name="T-I-TOR342" connect2name="TS579" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A184" type="ANCHOR" x="67.11" y="2261.12" connect1name="F292-S-0" connect2name="TC289" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A195" type="ANCHOR" x="69.29" y="1355.21" connect1name="TS469" connect2name="TC459" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB209" type="END_BUMPER" x="388.07" y="2842.34" connect1name="TS991" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A202" type="ANCHOR" x="627.62" y="2410.08" connect1name="F1055-S-0" connect2name="TS1028" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A180" type="ANCHOR" x="69.29" y="1386.48" connect1name="TS468" connect2name="TS469" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A182" type="ANCHOR" x="122.92" y="1516.35" connect1name="F462-S-0" connect2name="TS472" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A194" type="ANCHOR" x="657.86" y="884.44" connect1name="F904-S-0" connect2name="TS373" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A204" type="ANCHOR" x="122.48" y="2337.74" connect1name="F462-S-0" connect2name="TC461" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB206" type="END_BUMPER" x="536.5" y="2823.58" connect1name="TS1057" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A197" type="ANCHOR" x="796.39" y="2030.76" connect1name="TS392" connect2name="TS391" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A186" type="ANCHOR" x="325.81" y="971.3" connect1name="TC295" connect2name="TS465" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A190" type="ANCHOR" x="1205.32" y="791.94" connect1name="F901-S-0" connect2name="TC164" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A196" type="ANCHOR" x="417.55" y="1141.68" connect1name="T-I-TOR199" connect2name="T-EL-TOR197" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A198" type="ANCHOR" x="878.56" y="744.23" connect1name="F900-S-0" connect2name="TC737" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A200" type="ANCHOR" x="286.84" y="2535.11" connect1name="TC1012" connect2name="TS1019" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB207" type="END_BUMPER" x="558.61" y="2845.7" connect1name="TS1057" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A187" type="ANCHOR" x="1238.8" y="744.23" connect1name="F899-S-0" connect2name="TC737" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A188" type="ANCHOR" x="458.93" y="161.2" connect1name="F599-S-0" connect2name="T-ER-TOL589" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB210" type="END_BUMPER" x="229.16" y="2258.05" connect1name="TS1018" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A199" type="ANCHOR" x="303.28" y="1842.33" connect1name="F614-S-0" connect2name="F923-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A189" type="ANCHOR" x="69.29" y="1417.75" connect1name="F292-S-0" connect2name="TS468" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A179" type="ANCHOR" x="946.27" y="2123.03" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A192" type="ANCHOR" x="796.39" y="2337.69" connect1name="TS336" connect2name="TS324" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A201" type="ANCHOR" x="246.54" y="2027.33" connect1name="TS968" connect2name="TS967" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A191" type="ANCHOR" x="291.58" y="494.18" connect1name="TC602" connect2name="TC88" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A203" type="ANCHOR" x="638.26" y="841.88" connect1name="F900-S-0" connect2name="TS299" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A181" type="ANCHOR" x="181.13" y="2899.46" connect1name="TC95" connect2name="TC99" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A185" type="ANCHOR" x="141.68" y="2924" connect1name="TC26" connect2name="TC25" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB228" type="END_BUMPER" x="504.47" y="2617.94" connect1name="F979-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB227" type="END_BUMPER" x="444.98" y="2603.16" connect1name="F1048-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB214" type="END_BUMPER" x="446.67" y="2857.9" connect1name="TS994" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB218" type="END_BUMPER" x="362.04" y="2827.24" connect1name="TS972" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB221" type="END_BUMPER" x="523.91" y="2868.8" connect1name="TS1056" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB213" type="END_BUMPER" x="447.6" y="2889.16" connect1name="TS994" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB211" type="END_BUMPER" x="181.07" y="2280.55" connect1name="TS1019" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB216" type="END_BUMPER" x="418.33" y="2855.59" connect1name="TS990" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB215" type="END_BUMPER" x="411.61" y="2886.13" connect1name="TS990" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB220" type="END_BUMPER" x="508.05" y="2841.85" connect1name="TS1056" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB223" type="END_BUMPER" x="481.59" y="2853.83" connect1name="TS997" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB224" type="END_BUMPER" x="448.79" y="2740.69" connect1name="TS1061" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB225" type="END_BUMPER" x="472.13" y="2608.21" connect1name="F982-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB226" type="END_BUMPER" x="530.39" y="2632.22" connect1name="F1055-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB219" type="END_BUMPER" x="342.11" y="2851.33" connect1name="TS972" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB212" type="END_BUMPER" x="411.25" y="2606.96" connect1name="F1050-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB222" type="END_BUMPER" x="491.77" y="2883.39" connect1name="TS997" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="EB217" type="END_BUMPER" x="353.12" y="2634.08" connect1name="TC1012" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A90" type="ANCHOR" x="523.35" y="1397.11" connect1name="TS616" connect2name="T-EL-TOR344" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A95" type="ANCHOR" x="907.66" y="889.68" connect1name="TC161" connect2name="TC162" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A80" type="ANCHOR" x="497.89" y="1407.66" connect1name="TS542" connect2name="T-ER-TOR344" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A96" type="ANCHOR" x="790.23" y="133.77" connect1name="TS145" connect2name="TS181" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A98" type="ANCHOR" x="547.29" y="1454.89" connect1name="T-I-TOR615" connect2name="TS617" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A99" type="ANCHOR" x="727.52" y="631.13" connect1name="CTS854-1" connect2name="T-ER-TOL853" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A101" type="ANCHOR" x="796.39" y="2613.34" connect1name="TS324" connect2name="TS848" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A84" type="ANCHOR" x="397.14" y="239.33" connect1name="F601-S-0" connect2name="TC88" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A102" type="ANCHOR" x="911.79" y="1888.33" connect1name="TS492" connect2name="TS850" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A82" type="ANCHOR" x="263.88" y="770.69" connect1name="TS579" connect2name="T-I-TOR360" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A83" type="ANCHOR" x="342.9" y="1355.8" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A97" type="ANCHOR" x="1588.4" y="78.64" connect1name="F40-S-0" connect2name="T-EL-TOL50" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A100" type="ANCHOR" x="316.24" y="829.05" connect1name="TS764" connect2name="TS763" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A103" type="ANCHOR" x="1724.82" y="631.13" connect1name="B746" connect2name="TS714" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A85" type="ANCHOR" x="1173.51" y="658.7" connect1name="T-ER-TOR709" connect2name="TS863" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A91" type="ANCHOR" x="447.83" y="71.15" connect1name="B414" connect2name="TC610" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A93" type="ANCHOR" x="299.44" y="2154.05" connect1name="TS970" connect2name="TS969" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A79" type="ANCHOR" x="600.19" y="1582.6" connect1name="TC544" connect2name="T-EL-TOR615" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A81" type="ANCHOR" x="354.7" y="959.34" connect1name="TS465" connect2name="TS464" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A87" type="ANCHOR" x="303.28" y="1076.08" connect1name="T-EL-TOR518" connect2name="F614-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A88" type="ANCHOR" x="945.92" y="1987.25" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A92" type="ANCHOR" x="651.99" y="78.64" connect1name="TS180" connect2name="F600-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A94" type="ANCHOR" x="827.99" y="2739.46" connect1name="TC332" connect2name="T-EL-TOL331" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A89" type="ANCHOR" x="730.96" y="1154.13" connect1name="TC163" connect2name="TC161" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A86" type="ANCHOR" x="574.72" y="2420.12" connect1name="F979-S-0" connect2name="TS1052" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A64" type="ANCHOR" x="497.89" y="2372.87" connect1name="F982-S-0" connect2name="TS960" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A73" type="ANCHOR" x="200.73" y="1491.68" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A74" type="ANCHOR" x="1416.39" y="879.32" connect1name="T-I-TOL269" connect2name="TC151" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A77" type="ANCHOR" x="535.32" y="1426" connect1name="TS617" connect2name="TS616" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A78" type="ANCHOR" x="1035.27" y="631.13" connect1name="TS864" connect2name="T-I-TOR709" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A60" type="ANCHOR" x="70.55" y="464.1" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A61" type="ANCHOR" x="809.83" y="1829.82" connect1name="F178-S-0" connect2name="TC314" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A70" type="ANCHOR" x="651.99" y="133.77" connect1name="TS145" connect2name="T-I-TOL589" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A63" type="ANCHOR" x="627.62" y="2271.84" connect1name="TS1028" connect2name="TS1008" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A66" type="ANCHOR" x="342.9" y="2034.66" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A56" type="ANCHOR" x="236.45" y="632.42" connect1name="T-ER-TOR360" connect2name="T-ER-TOL182" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A71" type="ANCHOR" x="392.08" y="1152.22" connect1name="TS1024" connect2name="T-ER-TOR197" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A72" type="ANCHOR" x="115.56" y="2408.05" connect1name="TS388" connect2name="TC461" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A54" type="ANCHOR" x="326.88" y="2323.59" connect1name="F1050-S-0" connect2name="T-I-TOR445" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A57" type="ANCHOR" x="1788.63" y="139.38" connect1name="TS138" connect2name="T-I-TOL50" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A65" type="ANCHOR" x="88.59" y="2543.63" connect1name="TS389" connect2name="TS388" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A75" type="ANCHOR" x="403.18" y="989.93" connect1name="TS466" connect2name="TS373" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A67" type="ANCHOR" x="821.5" y="133.77" connect1name="TS181" connect2name="F79-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A68" type="ANCHOR" x="474.99" y="1141.77" connect1name="F652-S-0" connect2name="TS582" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A69" type="ANCHOR" x="374.3" y="1001.9" connect1name="TS467" connect2name="TS466" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A59" type="ANCHOR" x="394.18" y="2265.74" connect1name="F1042-S-0" connect2name="TC1037" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A76" type="ANCHOR" x="342.9" y="1491.57" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A58" type="ANCHOR" x="383.17" y="2619.02" connect1name="F984-S-0" connect2name="TS1061" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A62" type="ANCHOR" x="451.76" y="194.51" connect1name="T-EL-TOL589" connect2name="F601-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A55" type="ANCHOR" x="858.43" y="1588.77" connect1name="TC408" connect2name="TC407" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A47" type="ANCHOR" x="1814.63" y="156.75" connect1name="TC134" connect2name="TS138" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A49" type="ANCHOR" x="1574.41" y="854.59" connect1name="TC152" connect2name="TC35" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A53" type="ANCHOR" x="264.01" y="632.42" connect1name="TS582" connect2name="T-EL-TOL182" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A48" type="ANCHOR" x="444.98" y="2382.57" connect1name="T-ER-TOL1036" connect2name="TS1040" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A24" type="ANCHOR" x="444.98" y="2520.81" connect1name="F1048-S-0" connect2name="T-I-TOL1036" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A30" type="ANCHOR" x="1319.32" y="748.79" connect1name="TC732" connect2name="T-ER-TOR735" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A31" type="ANCHOR" x="417.42" y="2382.57" connect1name="TC1037" connect2name="T-EL-TOL1036" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A32" type="ANCHOR" x="338.88" y="2510.92" connect1name="F984-S-0" connect2name="TS1018" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A29" type="ANCHOR" x="444.98" y="1831.26" connect1name="TS1040" connect2name="TS1023" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A27" type="ANCHOR" x="444.98" y="1279.94" connect1name="TS1023" connect2name="T-ER-TOR199" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A26" type="ANCHOR" x="1406.98" y="21.04" connect1name="F229-S-0" connect2name="TC140" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A33" type="ANCHOR" x="546.27" y="21.04" connect1name="TC5" connect2name="TS356" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A34" type="ANCHOR" x="19.97" y="1877.25" connect1name="F279-S-0" connect2name="TS382" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A35" type="ANCHOR" x="599.8" y="711.6" connect1name="TS760" connect2name="CTS751-1" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A36" type="ANCHOR" x="299.44" y="2122.79" connect1name="TS969" connect2name="F923-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A37" type="ANCHOR" x="574.72" y="2144.47" connect1name="TS1052" connect2name="TS1009" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A28" type="ANCHOR" x="911.79" y="1857.06" connect1name="TS850" connect2name="TC406" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A38" type="ANCHOR" x="248.28" y="1214.01" connect1name="F903-S-0" connect2name="TC366" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A39" type="ANCHOR" x="210.98" y="324.93" connect1name="TS611" connect2name="TC590" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A52" type="ANCHOR" x="352.68" y="985.07" connect1name="TS860" connect2name="TS531" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A23" type="ANCHOR" x="596.86" y="78.64" connect1name="TC598" connect2name="F600-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A25" type="ANCHOR" x="898.32" y="2607.68" connect1name="TC405" connect2name="TC334" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A163" type="ANCHOR" x="1869.25" y="789.24" connect1name="TC16" connect2name="TC15" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A167" type="ANCHOR" x="319.01" y="632.11" connect1name="TC602" connect2name="TS397" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A172" type="ANCHOR" x="558.01" y="631.13" connect1name="TS857" connect2name="TS858" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A171" type="ANCHOR" x="100.98" y="975.48" connect1name="B750" connect2name="TS749" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A173" type="ANCHOR" x="328.75" y="927.29" connect1name="TS613" connect2name="T-EL-TOR342" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A150" type="ANCHOR" x="355.65" y="869.99" connect1name="TS749" connect2name="TS762" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A151" type="ANCHOR" x="729.35" y="2924" connect1name="T-I-TOL331" connect2name="TC24" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A154" type="ANCHOR" x="796.39" y="2062.03" connect1name="TS336" connect2name="TS391" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A155" type="ANCHOR" x="577.54" y="21.04" connect1name="TS356" connect2name="TS355" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A147" type="ANCHOR" x="841.46" y="2020.11" connect1name="TS398" connect2name="TS395" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A156" type="ANCHOR" x="75.56" y="2644.61" connect1name="TC286" connect2name="TC95" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A157" type="ANCHOR" x="303.28" y="937.84" connect1name="T-ER-TOR342" connect2name="T-I-TOR518" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A159" type="ANCHOR" x="1575.42" y="910.95" connect1name="TC151" connect2name="TC16" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A149" type="ANCHOR" x="1869.25" y="201.57" connect1name="TC134" connect2name="TC14" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A160" type="ANCHOR" x="530.06" y="1141.61" connect1name="F178-S-0" connect2name="TS397" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A161" type="ANCHOR" x="383.59" y="947.37" connect1name="TS464" connect2name="TS299" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A162" type="ANCHOR" x="796.39" y="1999.49" connect1name="TC343" connect2name="TS392" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A148" type="ANCHOR" x="236.45" y="494.18" connect1name="T-I-TOL182" connect2name="T-I-TOR588" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A164" type="ANCHOR" x="342.01" y="184.2" connect1name="TC597" connect2name="TC596" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A170" type="ANCHOR" x="738.04" y="711.6" connect1name="TS761" connect2name="CTS747-3" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A158" type="ANCHOR" x="1829.26" y="239.33" connect1name="TC131" connect2name="TC33" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A169" type="ANCHOR" x="1990.96" y="495.41" connect1name="TC15" connect2name="TC14" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A174" type="ANCHOR" x="53.64" y="2397.9" connect1name="TC289" connect2name="TS29" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A166" type="ANCHOR" x="846.46" y="2768.09" connect1name="TS288" connect2name="T-ER-TOL331" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A175" type="ANCHOR" x="887.28" y="791.94" connect1name="F904-S-0" connect2name="TC164" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A168" type="ANCHOR" x="200.73" y="1355.91" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A176" type="ANCHOR" x="263.88" y="301.13" connect1name="TC596" connect2name="T-EL-TOR588" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A177" type="ANCHOR" x="690.83" y="2899.46" connect1name="TC98" connect2name="TC97" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A165" type="ANCHOR" x="627.62" y="1720.53" connect1name="TS1008" connect2name="TC544" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A178" type="ANCHOR" x="1308.77" y="774.26" connect1name="F899-S-0" connect2name="T-EL-TOR735" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A153" type="ANCHOR" x="435.52" y="3045.71" connect1name="TC25" connect2name="TC24" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A152" type="ANCHOR" x="946.62" y="2258.8" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A129" type="ANCHOR" x="19.97" y="2428.56" connect1name="TS382" connect2name="T-EL-TOR45" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A131" type="ANCHOR" x="200.73" y="1763.23" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A133" type="ANCHOR" x="252.43" y="142.75" connect1name="TC7" connect2name="TC5" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A136" type="ANCHOR" x="1934.82" y="494.18" connect1name="TC34" connect2name="TC33" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A144" type="ANCHOR" x="82.49" y="2574.3" connect1name="TC286" connect2name="TS389" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A145" type="ANCHOR" x="470.45" y="1269.39" connect1name="T-I-TOR344" connect2name="T-EL-TOR199" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A146" type="ANCHOR" x="19.97" y="2630.16" connect1name="T-I-TOR45" connect2name="TC26" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A138" type="ANCHOR" x="574.72" y="1593.15" connect1name="TS1009" connect2name="T-ER-TOR615" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A142" type="ANCHOR" x="768.95" y="1861.57" connect1name="F652-S-0" connect2name="TC343" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A137" type="ANCHOR" x="297.19" y="293.95" connect1name="F599-S-0" connect2name="T-ER-TOR588" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A139" type="ANCHOR" x="1230.14" y="802.17" connect1name="F901-S-0" connect2name="T-ER-TOL269" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A134" type="ANCHOR" x="790.23" y="78.64" connect1name="TS180" connect2name="F40-S-0" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A130" type="ANCHOR" x="841.46" y="2295.76" connect1name="TS394" connect2name="TS395" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A135" type="ANCHOR" x="435.98" y="3005.02" connect1name="TC99" connect2name="TC98" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A140" type="ANCHOR" x="1574.41" y="133.77" connect1name="F79-S-0" connect2name="TC131" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A132" type="ANCHOR" x="44.77" y="597.4" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A141" type="ANCHOR" x="150.35" y="1208.92" connect1name="TC460" connect2name="TC294" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablepoint ident="A143" type="ANCHOR" x="200.73" y="1899" connect1name="" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml"></positionablepoint>
+        <positionablelabel x="0" y="0" level="0" icon="yes" class="jmri.jmrit.display.configurexml.PositionableLabelXml">
+            <icon url="preference:/Annotated.jpg" degrees="0" scale="0.8707"></icon>
+        </positionablelabel>
+    </LayoutEditor>
+    <turnouts class="jmri.managers.configurexml.InternalTurnoutManagerXml">
+        <turnout>
+            <systemName>IT11</systemName>
+            <userName>P1</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT19</systemName>
+            <userName>P10</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT2</systemName>
+            <userName>P11</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT7</systemName>
+            <userName>P12</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT5</systemName>
+            <userName>P13</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT8</systemName>
+            <userName>P14</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT17</systemName>
+            <userName>P15</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT13</systemName>
+            <userName>P16</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT15</systemName>
+            <userName>P17</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT9</systemName>
+            <userName>P18</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT6</systemName>
+            <userName>P19</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT1</systemName>
+            <userName>P2</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT16</systemName>
+            <userName>P20</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT3</systemName>
+            <userName>P3</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT10</systemName>
+            <userName>P4</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT14</systemName>
+            <userName>P5</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT4</systemName>
+            <userName>P6</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT12</systemName>
+            <userName>P7</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT18</systemName>
+            <userName>P8</userName>
+        </turnout>
+        <turnout>
+            <systemName>IT20</systemName>
+            <userName>P9</userName>
+        </turnout>
+    </turnouts>
+    <blocks class="jmri.configurexml.BlockManagerXml">
+        <block systemName="IB4" userName="B_4_Engine Shed 1_Yard" length="480.69">
+            <systemName>IB4</systemName>
+            <userName>B_4_Engine Shed 1_Yard</userName>
+        </block>
+        <block systemName="IB34" userName="B_34_East Curve Outer_Unspecified" length="1512.19">
+            <systemName>IB34</systemName>
+            <userName>B_34_East Curve Outer_Unspecified</userName>
+        </block>
+        <block systemName="IB33" userName="B_33_Main Yard Headshunt_Headshunt" length="831.25">
+            <systemName>IB33</systemName>
+            <userName>B_33_Main Yard Headshunt_Headshunt</userName>
+        </block>
+        <block systemName="IB20" userName="B_20_Main Yard 3_Yard" length="1262.69">
+            <systemName>IB20</systemName>
+            <userName>B_20_Main Yard 3_Yard</userName>
+        </block>
+        <block systemName="IB13" userName="B_13_North Loop 2_Branch Line" length="1980.94">
+            <systemName>IB13</systemName>
+            <userName>B_13_North Loop 2_Branch Line</userName>
+        </block>
+        <block systemName="IB27" userName="B_27_East Incline Inner_Unspecified" length="1121">
+            <systemName>IB27</systemName>
+            <userName>B_27_East Incline Inner_Unspecified</userName>
+        </block>
+        <block systemName="IB11" userName="B_11_Yard Ladder_Access" length="2249.58">
+            <systemName>IB11</systemName>
+            <userName>B_11_Yard Ladder_Access</userName>
+        </block>
+        <block systemName="IB5" userName="B_5_East Curve Inner_Unspecified" length="1548.02">
+            <systemName>IB5</systemName>
+            <userName>B_5_East Curve Inner_Unspecified</userName>
+        </block>
+        <block systemName="IB15" userName="B_15_Main Yard 1_Yard" length="1340">
+            <systemName>IB15</systemName>
+            <userName>B_15_Main Yard 1_Yard</userName>
+        </block>
+        <block systemName="IB29" userName="B_29_East Sidings Headshunt_Headshunt" length="670">
+            <systemName>IB29</systemName>
+            <userName>B_29_East Sidings Headshunt_Headshunt</userName>
+        </block>
+        <block systemName="IB22" userName="B_22_Central Station 3_Station" length="1353.24">
+            <systemName>IB22</systemName>
+            <userName>B_22_Central Station 3_Station</userName>
+        </block>
+        <block systemName="IB16" userName="B_16_North Loop 1_Branch Line" length="1875.85">
+            <systemName>IB16</systemName>
+            <userName>B_16_North Loop 1_Branch Line</userName>
+        </block>
+        <block systemName="IB1" userName="B_1_Central Station 2_Station" length="1349.66">
+            <systemName>IB1</systemName>
+            <userName>B_1_Central Station 2_Station</userName>
+        </block>
+        <block systemName="IB8" userName="B_8_South Loop_Branch Line" length="1691.75">
+            <systemName>IB8</systemName>
+            <userName>B_8_South Loop_Branch Line</userName>
+        </block>
+        <block systemName="IB24" userName="B_24_East Sidings 3_Yard" length="623">
+            <systemName>IB24</systemName>
+            <userName>B_24_East Sidings 3_Yard</userName>
+        </block>
+        <block systemName="IB35" userName="B_35_East Incline Outer_Unspecified" length="1138">
+            <systemName>IB35</systemName>
+            <userName>B_35_East Incline Outer_Unspecified</userName>
+        </block>
+        <block systemName="IB17" userName="B_17_Tunnel Outer_Unspecified" length="1862.95">
+            <systemName>IB17</systemName>
+            <userName>B_17_Tunnel Outer_Unspecified</userName>
+        </block>
+        <block systemName="IB28" userName="B_28_Main Yard 2_Yard" length="1461.2">
+            <systemName>IB28</systemName>
+            <userName>B_28_Main Yard 2_Yard</userName>
+        </block>
+        <block systemName="IB19" userName="B_19_North Station_Station" length="670">
+            <systemName>IB19</systemName>
+            <userName>B_19_North Station_Station</userName>
+        </block>
+        <block systemName="IB12" userName="B_12_South Inline Inner_Unspecified" length="1900.9">
+            <systemName>IB12</systemName>
+            <userName>B_12_South Inline Inner_Unspecified</userName>
+        </block>
+        <block systemName="IB31" userName="B_31_South Station_Station" length="913.29">
+            <systemName>IB31</systemName>
+            <userName>B_31_South Station_Station</userName>
+        </block>
+        <block systemName="IB3" userName="B_3_Central Station 1_Station" length="1027.22">
+            <systemName>IB3</systemName>
+            <userName>B_3_Central Station 1_Station</userName>
+        </block>
+        <block systemName="IB2" userName="B_2_Engine Shed 2_Yard" length="477.07">
+            <systemName>IB2</systemName>
+            <userName>B_2_Engine Shed 2_Yard</userName>
+        </block>
+        <block systemName="IB18" userName="B_18_Yard West Inner_Unspecified" length="1582.21">
+            <systemName>IB18</systemName>
+            <userName>B_18_Yard West Inner_Unspecified</userName>
+        </block>
+        <block systemName="IB39" userName="B_39_Hill Outer_Unspecified" length="670">
+            <systemName>IB39</systemName>
+            <userName>B_39_Hill Outer_Unspecified</userName>
+        </block>
+        <block systemName="IB10" userName="B_10_South Curve Outer_Unspecified" length="1189.88">
+            <systemName>IB10</systemName>
+            <userName>B_10_South Curve Outer_Unspecified</userName>
+        </block>
+        <block systemName="IB9" userName="B_9_Tunnel Inner_Unspecified" length="1656.88">
+            <systemName>IB9</systemName>
+            <userName>B_9_Tunnel Inner_Unspecified</userName>
+        </block>
+        <block systemName="IB6" userName="B_6_East Sidings Access_Access" length="1504.79">
+            <systemName>IB6</systemName>
+            <userName>B_6_East Sidings Access_Access</userName>
+        </block>
+        <block systemName="IB23" userName="B_23_Main Yard 4_Yard" length="1311.86">
+            <systemName>IB23</systemName>
+            <userName>B_23_Main Yard 4_Yard</userName>
+        </block>
+        <block systemName="IB21" userName="B_21_Yard West Outer_Unspecified" length="1306.23">
+            <systemName>IB21</systemName>
+            <userName>B_21_Yard West Outer_Unspecified</userName>
+        </block>
+        <block systemName="IB26" userName="B_26_South Curve Inner_Unspecified" length="1376.02">
+            <systemName>IB26</systemName>
+            <userName>B_26_South Curve Inner_Unspecified</userName>
+        </block>
+        <block systemName="IB7" userName="B_7_East Sidings 1_Yard" length="920">
+            <systemName>IB7</systemName>
+            <userName>B_7_East Sidings 1_Yard</userName>
+        </block>
+        <block systemName="IB30" userName="B_30_East Sidings 2_Yard" length="791">
+            <systemName>IB30</systemName>
+            <userName>B_30_East Sidings 2_Yard</userName>
+        </block>
+        <block systemName="IB36" userName="B_36_Hill Crossover_Access" length="258.3">
+            <systemName>IB36</systemName>
+            <userName>B_36_Hill Crossover_Access</userName>
+        </block>
+        <block systemName="IB25" userName="B_25_Hill Inner_Unspecified" length="1272.03">
+            <systemName>IB25</systemName>
+            <userName>B_25_Hill Inner_Unspecified</userName>
+        </block>
+        <block systemName="IB14" userName="B_14_South Incline Outer_Unspecified" length="2014.22">
+            <systemName>IB14</systemName>
+            <userName>B_14_South Incline Outer_Unspecified</userName>
+        </block>
+        <block systemName="IB37" userName="B_37_North Loop Junction_Access" length="492.81">
+            <systemName>IB37</systemName>
+            <userName>B_37_North Loop Junction_Access</userName>
+        </block>
+        <block systemName="IB32" userName="B_32_South Loop Junction_Access" length="492.81">
+            <systemName>IB32</systemName>
+            <userName>B_32_South Loop Junction_Access</userName>
+        </block>
+        <block systemName="IB38" userName="B_38_East Sidings Junction_Access" length="336.93">
+            <systemName>IB38</systemName>
+            <userName>B_38_East Sidings Junction_Access</userName>
+        </block>
+    </blocks>
+    <layoutblocks class="jmri.jmrit.display.configurexml.LayoutBlockManagerXml">
+        <layoutblock systemName="IB10" userName="B_10_South Curve Outer_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB10</systemName>
+            <userName>B_10_South Curve Outer_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB11" userName="B_11_Yard Ladder_Access" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB11</systemName>
+            <userName>B_11_Yard Ladder_Access</userName>
+        </layoutblock>
+        <layoutblock systemName="IB12" userName="B_12_South Inline Inner_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB12</systemName>
+            <userName>B_12_South Inline Inner_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB13" userName="B_13_North Loop 2_Branch Line" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB13</systemName>
+            <userName>B_13_North Loop 2_Branch Line</userName>
+        </layoutblock>
+        <layoutblock systemName="IB14" userName="B_14_South Incline Outer_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB14</systemName>
+            <userName>B_14_South Incline Outer_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB15" userName="B_15_Main Yard 1_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB15</systemName>
+            <userName>B_15_Main Yard 1_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB16" userName="B_16_North Loop 1_Branch Line" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB16</systemName>
+            <userName>B_16_North Loop 1_Branch Line</userName>
+        </layoutblock>
+        <layoutblock systemName="IB17" userName="B_17_Tunnel Outer_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB17</systemName>
+            <userName>B_17_Tunnel Outer_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB18" userName="B_18_Yard West Inner_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB18</systemName>
+            <userName>B_18_Yard West Inner_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB19" userName="B_19_North Station_Station" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB19</systemName>
+            <userName>B_19_North Station_Station</userName>
+        </layoutblock>
+        <layoutblock systemName="IB1" userName="B_1_Central Station 2_Station" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB1</systemName>
+            <userName>B_1_Central Station 2_Station</userName>
+        </layoutblock>
+        <layoutblock systemName="IB20" userName="B_20_Main Yard 3_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB20</systemName>
+            <userName>B_20_Main Yard 3_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB21" userName="B_21_Yard West Outer_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB21</systemName>
+            <userName>B_21_Yard West Outer_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB22" userName="B_22_Central Station 3_Station" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB22</systemName>
+            <userName>B_22_Central Station 3_Station</userName>
+        </layoutblock>
+        <layoutblock systemName="IB23" userName="B_23_Main Yard 4_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB23</systemName>
+            <userName>B_23_Main Yard 4_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB24" userName="B_24_East Sidings 3_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB24</systemName>
+            <userName>B_24_East Sidings 3_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB25" userName="B_25_Hill Inner_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB25</systemName>
+            <userName>B_25_Hill Inner_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB26" userName="B_26_South Curve Inner_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB26</systemName>
+            <userName>B_26_South Curve Inner_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB27" userName="B_27_East Incline Inner_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB27</systemName>
+            <userName>B_27_East Incline Inner_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB28" userName="B_28_Main Yard 2_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB28</systemName>
+            <userName>B_28_Main Yard 2_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB29" userName="B_29_East Sidings Headshunt_Headshunt" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB29</systemName>
+            <userName>B_29_East Sidings Headshunt_Headshunt</userName>
+        </layoutblock>
+        <layoutblock systemName="IB2" userName="B_2_Engine Shed 2_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB2</systemName>
+            <userName>B_2_Engine Shed 2_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB30" userName="B_30_East Sidings 2_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB30</systemName>
+            <userName>B_30_East Sidings 2_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB31" userName="B_31_South Station_Station" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB31</systemName>
+            <userName>B_31_South Station_Station</userName>
+        </layoutblock>
+        <layoutblock systemName="IB32" userName="B_32_South Loop Junction_Access" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB32</systemName>
+            <userName>B_32_South Loop Junction_Access</userName>
+        </layoutblock>
+        <layoutblock systemName="IB33" userName="B_33_Main Yard Headshunt_Headshunt" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB33</systemName>
+            <userName>B_33_Main Yard Headshunt_Headshunt</userName>
+        </layoutblock>
+        <layoutblock systemName="IB34" userName="B_34_East Curve Outer_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB34</systemName>
+            <userName>B_34_East Curve Outer_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB35" userName="B_35_East Incline Outer_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB35</systemName>
+            <userName>B_35_East Incline Outer_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB36" userName="B_36_Hill Crossover_Access" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB36</systemName>
+            <userName>B_36_Hill Crossover_Access</userName>
+        </layoutblock>
+        <layoutblock systemName="IB37" userName="B_37_North Loop Junction_Access" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB37</systemName>
+            <userName>B_37_North Loop Junction_Access</userName>
+        </layoutblock>
+        <layoutblock systemName="IB38" userName="B_38_East Sidings Junction_Access" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB38</systemName>
+            <userName>B_38_East Sidings Junction_Access</userName>
+        </layoutblock>
+        <layoutblock systemName="IB39" userName="B_39_Hill Outer_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB39</systemName>
+            <userName>B_39_Hill Outer_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB3" userName="B_3_Central Station 1_Station" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB3</systemName>
+            <userName>B_3_Central Station 1_Station</userName>
+        </layoutblock>
+        <layoutblock systemName="IB4" userName="B_4_Engine Shed 1_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB4</systemName>
+            <userName>B_4_Engine Shed 1_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB5" userName="B_5_East Curve Inner_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB5</systemName>
+            <userName>B_5_East Curve Inner_Unspecified</userName>
+        </layoutblock>
+        <layoutblock systemName="IB6" userName="B_6_East Sidings Access_Access" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB6</systemName>
+            <userName>B_6_East Sidings Access_Access</userName>
+        </layoutblock>
+        <layoutblock systemName="IB7" userName="B_7_East Sidings 1_Yard" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB7</systemName>
+            <userName>B_7_East Sidings 1_Yard</userName>
+        </layoutblock>
+        <layoutblock systemName="IB8" userName="B_8_South Loop_Branch Line" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB8</systemName>
+            <userName>B_8_South Loop_Branch Line</userName>
+        </layoutblock>
+        <layoutblock systemName="IB9" userName="B_9_Tunnel Inner_Unspecified" occupiedsense="2" trackcolor="black" occupiedcolor="red" extracolor="orange">
+            <systemName>IB9</systemName>
+            <userName>B_9_Tunnel Inner_Unspecified</userName>
+        </layoutblock>
+    </layoutblocks>
+</layout-config>
